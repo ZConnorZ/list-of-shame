@@ -78,6 +78,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   instead of disclosing properly.
 * [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations
 * [alexisl315](https://www.spigotmc.org/members/190298/) - Your go-to dev for laggy, inefficient skript recreations of popular plugins. Ignores any critique given in reviews and makes fake updates that only change a few lines at most.
+* [Auxilor](https://www.spigotmc.org/members/auxilor.507394/) - Toxic, eager to earn as much money as possible. Daily spam with hotfixes (lol 1 line changelogs), for all own paid plugins, increasing attention of users, but in fact minor changes. Copy-paste code for each plugin. There is a very large dependence on the use of libraries for own plugins. [Spit](https://github.com/WillFP/list-of-shame)
 
 ## Software Alternatives / Info Threads
 
